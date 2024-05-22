@@ -57,7 +57,7 @@ const Projects: React.FC = () => {
         </div>
         <div className="githubDiv">
           <a
-            href="https://github.com/demiladebdm"
+            href="https://github.com/kemiobabitoyosi"
             target="_blank"
             rel="noopener noreferrer"
           >
