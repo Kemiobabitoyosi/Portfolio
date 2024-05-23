@@ -30,7 +30,7 @@ const projectsData: Project[] = [
   {
     name: "Whack a Bear Game",
     imageUrl: `${Project4.src}`,
-    githubLink: "https://kemiobabitoyosi.github.io/whack-a-bear-bruh",
+    githubLink: "https://kemiobabitoyosi.github.io/whack-a-bear-bruh-/",
   },
 ];
 
