@@ -58,7 +58,8 @@ const Home: React.FC = () => {
           <div className="text-3">
             And I&apos;m a{" "}
             <span className="typing">
-              Web Developer <span className="and">and</span> <span className="scrum">Certified Scrum Master</span>
+              Web Developer <span className="and">and</span>{" "}
+              <span className="scrum">Certified Scrum Master</span>
             </span>
           </div>
           <a href="#contact">Hire me</a>
